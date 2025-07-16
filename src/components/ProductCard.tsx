@@ -14,7 +14,7 @@ interface ProductCardProps {
 const ProductCard = ({ title, description, price, image, features, whatsappMessage }: ProductCardProps) => {
   const handleOrderNow = () => {
     const encodedMessage = encodeURIComponent(whatsappMessage);
-    window.open(`https://wa.me/1234567890?text=${encodedMessage}`, "_blank");
+    window.open(`https://wa.me/918332020488?text=${encodedMessage}`, "_blank");
   };
 
   return (

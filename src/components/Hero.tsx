@@ -4,7 +4,7 @@ import heroImage from "@/assets/hero-bg.jpg";
 
 const Hero = () => {
   const handleContactWhatsApp = () => {
-    window.open("https://wa.me/1234567890?text=Hello! I'm interested in your printing services.", "_blank");
+    window.open("https://wa.me/918332020488?text=Hello! I'm interested in your printing services.", "_blank");
   };
 
   return (

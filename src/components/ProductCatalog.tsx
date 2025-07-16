@@ -9,7 +9,7 @@ const ProductCatalog = () => {
     {
       title: "Business Cards",
       description: "Premium quality business cards that make a lasting impression",
-      price: "$15.99",
+      price: "₹500",
       image: businessCardsImage,
       features: [
         "Premium cardstock (350gsm)",
