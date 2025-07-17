@@ -23,7 +23,7 @@ const ProductCatalog = () => {
       title: "Customised Book Labels",
       description: "Customised book labels for your kids",
       price: "₹150",
-      image: flyersImage,
+      image: "/lovable-uploads/d20e0404-9e20-43fe-ad92-dfa02505b43e.png",
       features: [
         "Personalized designs",
         "Durable waterproof material",
