@@ -16,51 +16,51 @@ const ProductCatalog = () => {
         "Full color printing",
         "Matt or gloss finish",
         "Standard & custom sizes",
-        "Fast 24-48h turnaround"
+        "Free shipping"
       ],
       whatsappMessage: "Hi! I'm interested in ordering business cards. Could you provide more details about pricing and customization options?"
     },
     {
-      title: "Flyers & Brochures",
-      description: "Eye-catching marketing materials to promote your business",
-      price: "$25.99",
+      title: "Customised Book Labels",
+      description: "Customised book labels for your kids",
+      price: "₹150",
       image: flyersImage,
       features: [
-        "A4, A5, A6 sizes available",
-        "High-quality paper options",
-        "Single or double-sided",
-        "Custom design service",
-        "Bulk discounts available"
+        "Personalized designs",
+        "Durable waterproof material",
+        "Multiple size options",
+        "Kid-friendly themes",
+        "Free shipping"
       ],
-      whatsappMessage: "Hello! I'd like to know more about your flyer printing services and design options. What packages do you offer?"
+      whatsappMessage: "Hi! I'm interested in customised book labels for my kids. Could you provide more details about designs and customization options?"
     },
     {
-      title: "Posters & Banners",
-      description: "Large format printing for maximum impact and visibility",
-      price: "$45.99",
+      title: "Cup Printing Service",
+      description: "Custom printed mugs and cups for personal or business use",
+      price: "₹350",
       image: postersImage,
       features: [
-        "Multiple sizes up to A0",
-        "Indoor & outdoor materials",
-        "Weather-resistant options",
-        "Easy hanging solutions",
-        "Professional installation"
+        "Ceramic and plastic options",
+        "Full color printing",
+        "Custom designs & logos",
+        "Dishwasher safe options",
+        "Free shipping"
       ],
-      whatsappMessage: "Hi there! I need information about poster and banner printing. What sizes and materials do you have available?"
+      whatsappMessage: "Hello! I'd like to know more about your cup printing services. What types of cups and designs do you offer?"
     },
     {
-      title: "Custom Prints",
-      description: "Specialized printing solutions for unique requirements",
-      price: "$19.99",
+      title: "12 Portrait Photos",
+      description: "High-quality portrait photo printing service",
+      price: "₹150",
       image: customPrintsImage,
       features: [
-        "Stickers & labels",
-        "Canvas prints",
-        "Photo printing",
-        "Specialty materials",
-        "Variable data printing"
+        "Professional photo quality",
+        "Multiple size options",
+        "Matte or glossy finish",
+        "Color correction included",
+        "Free shipping"
       ],
-      whatsappMessage: "Hello! I'm looking for custom printing solutions. Can we discuss my specific requirements and get a quote?"
+      whatsappMessage: "Hi! I need 12 portrait photos printed. Can you help me with sizes and finish options?"
     }
   ];
 

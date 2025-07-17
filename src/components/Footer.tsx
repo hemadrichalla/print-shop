@@ -3,7 +3,7 @@ import { MessageCircle, Mail, Phone, MapPin, Facebook, Instagram, Twitter } from
 
 const Footer = () => {
   const handleWhatsAppContact = () => {
-    window.open("https://wa.me/1234567890?text=Hello! I'd like to learn more about your printing services.", "_blank");
+    window.open("https://wa.me/918186066340?text=Hello! I'd like to learn more about your printing services.", "_blank");
   };
 
   return (
@@ -33,15 +33,11 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center">
                 <Phone className="w-5 h-5 mr-3 text-accent" />
-                <span>+1 (555) 123-4567</span>
+                <span>+91 8186066340</span>
               </div>
               <div className="flex items-center">
                 <Mail className="w-5 h-5 mr-3 text-accent" />
-                <span>info@printshop.com</span>
-              </div>
-              <div className="flex items-start">
-                <MapPin className="w-5 h-5 mr-3 text-accent mt-1" />
-                <span>123 Print Street<br />Design City, DC 12345</span>
+                <span>hemadri.hc@gmail.com</span>
               </div>
             </div>
           </div>
@@ -51,11 +47,11 @@ const Footer = () => {
             <h4 className="text-xl font-semibold mb-6">Our Services</h4>
             <ul className="space-y-3">
               <li className="hover:text-accent transition-colors cursor-pointer">Business Cards</li>
-              <li className="hover:text-accent transition-colors cursor-pointer">Flyers & Brochures</li>
-              <li className="hover:text-accent transition-colors cursor-pointer">Posters & Banners</li>
-              <li className="hover:text-accent transition-colors cursor-pointer">Custom Prints</li>
+              <li className="hover:text-accent transition-colors cursor-pointer">Customised Book Labels</li>
+              <li className="hover:text-accent transition-colors cursor-pointer">Cup Printing Service</li>
+              <li className="hover:text-accent transition-colors cursor-pointer">12 Portrait Photos</li>
               <li className="hover:text-accent transition-colors cursor-pointer">Design Services</li>
-              <li className="hover:text-accent transition-colors cursor-pointer">Rush Orders</li>
+              <li className="hover:text-accent transition-colors cursor-pointer">Free Shipping</li>
             </ul>
           </div>
         </div>
