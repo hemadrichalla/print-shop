@@ -38,7 +38,7 @@ const ProductCatalog = () => {
       title: "Cup Printing Service",
       description: "Custom printed mugs and cups for personal or business use",
       price: "₹350",
-      image: postersImage,
+      image: customPrintsImage,
       features: [
         "Ceramic and plastic options",
         "Full color printing",
@@ -49,10 +49,10 @@ const ProductCatalog = () => {
       whatsappMessage: "Hello! I'd like to know more about your cup printing services. What types of cups and designs do you offer?"
     },
     {
-      title: "12 Portrait Photos",
+      title: "Retro prints",
       description: "High-quality portrait photo printing service",
       price: "₹150",
-      image: customPrintsImage,
+      image: postersImage,
       features: [
         "Professional photo quality",
         "Multiple size options",
@@ -60,7 +60,7 @@ const ProductCatalog = () => {
         "Color correction included",
         "Free shipping"
       ],
-      whatsappMessage: "Hi! I need 12 portrait photos printed. Can you help me with sizes and finish options?"
+      whatsappMessage: "Hi! I need retro prints. Can you help me with sizes and finish options?"
     }
   ];
 
