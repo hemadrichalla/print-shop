@@ -51,7 +51,7 @@ const ProductCatalog = () => {
       title: "Retro prints",
       description: "High-quality portrait photo printing service",
       price: "₹150",
-      image: postersImage,
+      image: "/lovable-uploads/90ac866e-ead7-46c1-849f-885b1ecf38b1.png",
       features: [
         "Professional photo quality",
         "Multiple size options",
