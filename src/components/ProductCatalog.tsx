@@ -1,5 +1,4 @@
 import ProductCard from "./ProductCard";
-import businessCardsImage from "@/assets/business-cards.jpg";
 import flyersImage from "@/assets/flyers.jpg";
 import postersImage from "@/assets/posters.jpg";
 import customPrintsImage from "@/assets/custom-prints.jpg";
@@ -10,7 +9,7 @@ const ProductCatalog = () => {
       title: "Business Cards",
       description: "Premium quality business cards that make a lasting impression",
       price: "₹500",
-      image: businessCardsImage,
+      image: "/lovable-uploads/1d712ea4-7260-474a-ac2c-23910a4319c0.png",
       features: [
         "Premium cardstock (350gsm)",
         "Full color printing",
