@@ -37,7 +37,7 @@ const ProductCatalog = () => {
       title: "Cup Printing Service",
       description: "Custom printed mugs and cups for personal or business use",
       price: "₹350",
-      image: customPrintsImage,
+      image: "/lovable-uploads/51a5031d-5e94-433b-939d-29eff943affd.png",
       features: [
         "Ceramic and plastic options",
         "Full color printing",
